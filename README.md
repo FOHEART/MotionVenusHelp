@@ -7,6 +7,8 @@ MotionVenus is a desktop client for [FOHEART C1](http://www.foheart.com/) Motion
 # [1. Driver Installation](https://github.com/FOHEART/MotionVenusHelp/blob/master/driver/driverinstall.md)
 # [2. Preparing Hardware](https://github.com/FOHEART/MotionVenusHelp/blob/master/hardware/preparinghardware.md)
 # [3. Sensor Calibration](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/sensorcali.md)
+# [4. Software Features](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/devicelist.md)
+## [4.1 Device List](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/devicelist.md)
 				
 ======================CN===========================<br>
 # 简介
@@ -14,3 +16,5 @@ MotionVenus是[FOHEART C1](http://www.foheart.com/)动作捕捉套装的PC客户
 # [1. 驱动安装](https://github.com/FOHEART/MotionVenusHelp/blob/master/driver/driverinstall.md)
 # [2. 硬件穿戴](https://github.com/FOHEART/MotionVenusHelp/blob/master/hardware/preparinghardware.md)
 # [3. 传感器节点校准](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/sensorcali.md)
+# [4. 软件功能区](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/devicelist.md)
+## [4.1 设备列表栏](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/devicelist.md)
