@@ -1,4 +1,4 @@
-# 3.1 传感器节点校准
+# 第三部分：传感器节点校准
 第一次打开软件，会显示以下界面：<br>
 ![welcome](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/master/software/welcom1_2_8.png)<br>
 您可以点击“下一页”观看校准前的说明。<br>
