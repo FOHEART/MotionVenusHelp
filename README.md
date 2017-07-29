@@ -1,5 +1,9 @@
 # MotionVenus Docs
 
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/master/img/softwareName.png"/>
+</div>
+
 ![MainThumb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/master/img/MotionVenus_1_2_8.png)
 
 # Introduction
