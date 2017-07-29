@@ -1,6 +1,8 @@
 # 四、软件功能区
 ## 4.1 设备列表栏
-![devicelist](.png)<br>
+<div align=center>
+![devicelist](.png)
+</div>
 连接到电脑端的一套设备加载为一个树状列表，树状列表详细的显示了每一个Sensor的连接状态，磁干扰状态和剩余电量。<br>
 <table>
    <tr><th>编号</th><th>部位</th></tr>
