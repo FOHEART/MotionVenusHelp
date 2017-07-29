@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/master/software/devicelist.png"/>
 </div>
 连接到电脑端的一套设备加载为一个树状列表，树状列表详细的显示了每一个Sensor的连接状态，磁干扰状态和剩余电量。<br>
+<div align=center>
 <table>
    <tr><th>编号</th><th>部位</th></tr>
    <tr><th>0</th><th>胯部</th></tr>
@@ -24,6 +25,7 @@
 	<tr><th>15</th><th>右小腿</th></tr>
 	<tr><th>16</th><th>右脚</th></tr>
 </table>
+</div>
 
 当MotionVenus同时连接多套设备时，设备编号将为Actor1(Live)、Actor2(Live)、Actor3(Live)...，您可以用鼠标点击表头“Actor1(Live)”,点击后表明你所选中了此套设备，接下来的操作都是针对选中的这套设备。<br>
 1. “部位”即为这套设备传感器节点所对应的人体部位。
