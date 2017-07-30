@@ -20,6 +20,7 @@ MotionVenus is a desktop client for [FOHEART C1](http://www.foheart.com/) Motion
 ## [4.6 Realtime Curves](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/plot.md)	
 ## [4.7 TimeLine](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/timeline.md)	
 ## [4.8 File Manager](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/filemgr.md)
+## [4.9 Contact Edit](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/contacteditor.md)
 			
 ======================CN===========================<br>
 # 简介
@@ -36,3 +37,4 @@ MotionVenus是[FOHEART C1](http://www.foheart.com/)动作捕捉套装的PC客户
 ## [4.6 制图](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/plot.md)	
 ## [4.7 时间轴](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/timeline.md)
 ## [4.8 录制文件管理](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/filemgr.md)
+## [4.9 接触点编辑](https://github.com/FOHEART/MotionVenusHelp/blob/master/software/contacteditor.md)
