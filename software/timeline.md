@@ -1,18 +1,24 @@
 ## 4.7 时间轴
 时间轴栏主要用来管理实时数据的录制、回放、快速慢速播放、配合帧数据修改模块修改数据等功能。
+
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/timeline.png"/>
 </div>
+
 1. 点击**录制按钮**录制实时数据流，录制完成的数据流会显示在录制文件管理模块中。
 2. 回放帧率可更改，用来**预览**以此帧率导出为BVH或FBX后的实际效果。
 3. 中间左右两个滑块用来控制时间轴**显示的区域**。
+
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/timelinemedium.GIF"/>
 </div>
+
 可以直接双击滑块输入帧号实现快速跳转。
+
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/timelinedinputmedium.GIF"/>
 </div>
+
 4. 播放模式有四种：
  
 > “正常播放”；
