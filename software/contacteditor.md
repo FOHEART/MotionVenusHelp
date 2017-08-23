@@ -1,5 +1,5 @@
 ## 4.9 接触点编辑
-该模块用来修改动捕过程中偶然发生的错误，例如滑步、抖动等问题，这些问题一般是由于运动过于
+该模块用来修改动捕过程中偶然发生的错误，例如滑步、抖动等问题。
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/contacteditor.png"/>
 </div>
