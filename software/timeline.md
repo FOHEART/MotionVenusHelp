@@ -10,7 +10,7 @@
 录制时主窗体会用红色边框标红：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/recordredhint"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/recordredhint.png"/>
 </div>
 
 注意在录制时，**无法回放同时回放文件**，如果切换到回放模式，会造成录制内容为**空白**。
