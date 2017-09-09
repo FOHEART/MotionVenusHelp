@@ -25,7 +25,7 @@
 - 覆盖：自动覆盖重名文件。
 - 询问：每次都弹出对话框询问是否覆盖。
 
-自动添加biped后缀为当导出文件为3Ds Max Biped BVH时，在文件末尾自动添加_biped后缀。
+自动添加biped后缀为当导出文件为3Ds Max Biped BVH时，在文件末尾自动添加_biped后缀。<br>
 2. 帧率选择
 
 帧率选择现已支持所有制式帧率。
@@ -74,11 +74,13 @@
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bipedbvhimport.png"/>
 </div>
+
 ### 3、文件信息
 1. 右键选择属性，查看录制文件的详细信息，包括使用的硬件套装、总帧数、骨骼长度等信息。
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/filemgrprop.png"/>
 </div>
+
 ### 4、播放列表
 1. 右键选择添加到播放队列，是指将当前文件添加到回放流中，所有在播放列表中的文件，均会在后台转发其数据到网络端口（例如发送到Unity3D、Unreal Engine 4等第三方软件中）。
