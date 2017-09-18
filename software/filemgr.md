@@ -75,6 +75,22 @@
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bipedbvhimport.png"/>
 </div>
 
+4. FBX导出
+FBX导出后胳膊或者腿部会有万向锁的产生，会造成错误的瞬间翻转等问题，需要使用MotionBuilder 2014进行数据修复（Plot）。
+1. **输入帧数**，选择Plot All
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/fbxplot.png"/>
+</div>
+
+2. 配置参数，点击确定
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/fbxplotprop.png"/>
+</div>
+
+3. 保存文件退出
+
 ### 3、文件信息
 1. 右键选择属性，查看录制文件的详细信息，包括使用的硬件套装、总帧数、骨骼长度等信息。
 
