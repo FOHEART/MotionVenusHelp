@@ -1,13 +1,13 @@
 ## 4.4身体参数设置
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bonelength.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/bonelength.png"/>
 </div>
 
 在“骨骼”窗体，在这里你可以选择适合你身高的**骨骼长度模版**。或者精确量取并设定骨骼长度。<br>
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bonelengthtemplate.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/bonelengthtemplate.png"/>
 </div>
 
 可以点击查看**设定**您的实际身高、骨骼长度，使虚拟人物模型的身体参数与您**保持一致**。<br>

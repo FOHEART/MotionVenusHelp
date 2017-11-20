@@ -6,7 +6,7 @@
 2. 导出动作文件为BVH、FBX等通用格式；
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/filemgr.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/filemgr.png"/>
 </div>
 
 文件命名规则：录制日期+时间+角色名。<br>
@@ -15,7 +15,7 @@
 右键已打开的文件，在弹出菜单中选择“导出时间轴范围内数据”，导出数据为时间轴模块中间两个滑块确定的范围。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/fileexport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/fileexport.png"/>
 </div>
 
 1. 导出选项
@@ -53,26 +53,26 @@
 导出格式选择3Ds Max Biped BVH：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bipedbvhexport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/bipedbvhexport.png"/>
 </div>
 
 在3Ds Max中可以直接支持导入该种文件格式，使用方法为：<br>
 首先在场景中拖拽创建出一个默认的Biped模型，
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bipedbvhcreate.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/bipedbvhcreate.png"/>
 </div>
 
 然后选择Load Motion Capture File，
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bipedbvhload.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/bipedbvhload.png"/>
 </div>
 
 选择刚才导出的ActorM_biped.bvh即可，最终显示如下：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/bipedbvhimport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/bipedbvhimport.png"/>
 </div>
 
 ### 4、FBX导出
@@ -81,13 +81,13 @@ FBX导出后胳膊或者腿部会有万向锁的产生，会造成错误的瞬�
 1. **输入帧数**，选择Plot All
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/fbxplot.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/fbxplot.png"/>
 </div>
 
 2. 配置参数，点击确定
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/fbxplotprop.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/fbxplotprop.png"/>
 </div>
 
 3. 保存文件退出
@@ -96,7 +96,7 @@ FBX导出后胳膊或者腿部会有万向锁的产生，会造成错误的瞬�
 1. 右键选择属性，查看录制文件的详细信息，包括使用的硬件套装、总帧数、骨骼长度等信息。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/software/filemgrprop.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/software/filemgrprop.png"/>
 </div>
 
 ### 6、播放列表

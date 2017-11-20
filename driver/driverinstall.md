@@ -5,44 +5,44 @@
 ## 1.1 Win8/Win10系统驱动安装
 ### 1.1.1 打开所有设置
 选择更新和安全。<br>
-![更新和安全](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/updateNsecure.png)
+![更新和安全](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/updateNsecure.png)
 ### 1.1.2 选择高级启动
-![高级启动](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/mordenstartup.png)
+![高级启动](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/mordenstartup.png)
 ### 1.1.3 选择疑难解答
-![疑难解答](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/troubleshooting.png)
+![疑难解答](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/troubleshooting.png)
 ### 1.1.4 选择高级选项
-![高级选项](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/advanceOptions.png)
+![高级选项](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/advanceOptions.png)
 ### 1.1.5 选择启动设置
-![启动设置](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/startupconfig.png)
+![启动设置](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/startupconfig.png)
 ### 1.1.6 选择重启
-![重启](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/reboot.png)<br>
+![重启](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/reboot.png)<br>
 重启之后，进入启动设置界面。
 ### 1.1.7 禁用驱动程序强制签名
-![禁用强制签名](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/disablemandatorysignature.png)
+![禁用强制签名](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/disablemandatorysignature.png)
 ### 1.1.8 连接C1路由器
 连接FOHEART C1路由器到电脑，打开计算机管理，出现Foheart Router in HS Mode设备。<br>
-![未安装驱动设备](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/uninstalleddrivingdevice.png)<br>
+![未安装驱动设备](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/uninstalleddrivingdevice.png)<br>
 右键更新驱动程序软件，选择浏览计算机以查找驱动程序软件。<br>
 选择MotionVenus软件安装目录中的**FOHEART C1 Router Driver**文件夹。<br>
-![选择驱动文件夹](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/selectdriverfolder.png)<br>
+![选择驱动文件夹](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/selectdriverfolder.png)<br>
 单击下一步，选择始终安装驱动<br>
-![始终安装驱动](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/Alwaysinstallthedriver.png)
+![始终安装驱动](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/Alwaysinstallthedriver.png)
 ### 1.1.9 断电重启C1路由器，驱动安装完成
 在设备管理器中出现**FOHEART C1 Router**设备，驱动成功安装。<br>
-![驱动安装成功](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/driveinstallationsuccess.png)
+![驱动安装成功](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/driveinstallationsuccess.png)
 ## 1.2 Win7系统驱动安装
 ### 1.2.1 连接C1路由器
 连接FOHEART C1路由器到电脑，打开计算机管理，出现**Foheart Router in HS Mode**设备。<br>
-![Win7未安装驱动设备](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/win7Uninstalleddrivingdevice.png)<br>
+![Win7未安装驱动设备](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/win7Uninstalleddrivingdevice.png)<br>
 右键更新驱动程序软件，选择浏览计算机以查找驱动程序软件。<br>
 选择MotionVenus软件安装目录中的**FOHEART C1 Router Driver**文件夹。<br>
-![Win7选择驱动程序文件夹](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/win7Selectdriverfolder.png)<br>
+![Win7选择驱动程序文件夹](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/win7Selectdriverfolder.png)<br>
 单击下一步，选择始终安装驱动。<br>
-![Win7始终安装驱动](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/win7Alwaysinstalldriver.png)<br>
-![Win7安装驱动成功](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/win7Installationdrivesuccess.png)<br>
+![Win7始终安装驱动](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/win7Alwaysinstalldriver.png)<br>
+![Win7安装驱动成功](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/win7Installationdrivesuccess.png)<br>
 ### 1.2.2 重启C1路由器
 在设备管理器中出现**FOHEART C1 Router**设备，驱动成功安装。<br>
-![Win7安装驱动成功](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.0/img/win7Installationdrivesuccess2.png)
+![Win7安装驱动成功](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/win7Installationdrivesuccess2.png)
 ## 1.3 充电底座驱动安装（可选）
 充电底座的驱动程序安装方法与路由器的步骤相同，驱动程序文件夹是MotionVenus安装目录下的**FOHEART C1 Charger Driver**。<br>
 FOHEART C1标配的充电底座有以下功能：<br>
