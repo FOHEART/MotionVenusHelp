@@ -1,17 +1,17 @@
 # MotionVenus Docs
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/softwareName.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/softwareName.png"/>
 </div>
 
-![MainThumb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/MotionVenus_1_3_0.png)
+![MainThumb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/MotionVenus_1_3_0.png)
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/foheartc1.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/foheartc1.png"/>
 </div>
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/foheartc1_2.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/foheartc1_2.png"/>
 </div>
 
 # Introduction
