@@ -6,6 +6,10 @@
 
 ![MainThumb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/MotionVenus_1_3_0.png)
 
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/foheartc1.png"/>
+</div>
+
 # Introduction
 MotionVenus is a desktop client for [FOHEART C1](http://www.foheart.com/) Motion Capture Suits. It manages record&export motion capture files, it can also export realtime data stream(or local data files) to drive any virtual characters movement in [Unity3D](https://unity3d.com) and [Unreal Engine 4](https://www.unrealengine.com).<br>
 # [1. Driver Installation](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.4/driver/driverinstall.md)
