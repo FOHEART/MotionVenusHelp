@@ -29,7 +29,7 @@ MotionVenus是[FOHEART C1](http://www.foheart.com/)动作捕捉套装的PC客户
 ## [4.7 时间轴](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/timeline.md)
 ## [4.8 录制文件管理](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/filemgr.md)
 ## [4.9 接触点编辑](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/contacteditor.md)
-## [5. 常见问题](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/QA.md)
+# [5. 常见问题](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/QA.md)
 ======================EN===========================<br>
 # Introduction
 MotionVenus is a desktop client for [FOHEART C1](http://www.foheart.com/) Motion Capture Suits. It manages record&export motion capture files, it can also export realtime data stream(or local data files) to drive any virtual characters movement in [Unity3D](https://unity3d.com) and [Unreal Engine 4](https://www.unrealengine.com).<br>
@@ -46,4 +46,4 @@ MotionVenus is a desktop client for [FOHEART C1](http://www.foheart.com/) Motion
 ## [4.7 TimeLine](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/timeline.md)	
 ## [4.8 File Manager](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/filemgr.md)
 ## [4.9 Contact Edit](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/contacteditor.md)
-## [5. Q&A](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/QA.md)
+# [5. Q&A](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/QA.md)
