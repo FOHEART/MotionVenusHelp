@@ -14,7 +14,9 @@
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/foheartc1_2.png"/>
 </div>
+
 [【更新日志】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/software/realeaseNote.md)
+
 # 简介
 MotionVenus是[FOHEART C1](http://www.foheart.com/)动作捕捉套装的PC客户端。它主要功能是录制动捕数据，并将数据导出为BVH、FBX等通用数据格式，另外它还可以将表演者的动作数据流实时（或离线文件）的发送到[Unity3D](https://unity3d.com) 或 [Unreal Engine 4](https://www.unrealengine.com)等3D引擎中，驱动任意虚拟动画人物运动。
 # [1. 驱动安装](https://github.com/FOHEART/MotionVenusHelp/blob/v1.3.2/driver/driverinstall.md)
