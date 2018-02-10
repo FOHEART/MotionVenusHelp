@@ -38,6 +38,11 @@
 当MotionVenus同时连接多套设备时，系统为设备自动编号，例如Actor1(Live)、Actor2(Live)、Actor3(Live)...，您可以用鼠标点击表头“Actor1(Live)”,点击后表明你所选中了此套设备，接下来的操作都是针对选中的这套设备。<br>
 1. “部位”即为这套设备传感器节点所对应的人体部位。
 2. “连接”为![noLink](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/nodeNotLinked.png)时表明这个部位的传感器没有连接上软件，请你检查此传感器是否正常开启，当显示为![noLink](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/nodeLinked.png)时表明此部位传感器正常连接。
-3. “磁干扰”显示为![noMagDisturb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/notInMagnetic.png)时表明此部位传感器没有受到周围环境的磁干扰，显示![magDisturb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/inMagnetic.png)表明受到了**周围环境的磁干扰**；
+3. “磁干扰”显示为![noMagDisturb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/notInMagnetic.png)时表明此部位传感器没有受到周围环境的磁干扰，显示![magDisturb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/inMagnetic.png)表明受到了**周围环境的磁干扰**；<br>
+
+本版本新增明显的磁干扰视觉提示，这样即使在距离软件较远的距离，也能看到某个部位受到磁干扰。<br>
+
+![magDisturb](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/inMagneticHint.png)
+
 4. “电量”则显示了对应部位传感器节点的电量，电量的显示每10秒刷新一次。<br>
 **注意**：在使用过程中，由于脚部最容易受到磁干扰，所以当磁干扰一栏显示异常时，应检查周围是否有强磁干扰源，如有应远离，当**远离磁干扰**后，脚部Sensor可以自动恢复正常状态。
