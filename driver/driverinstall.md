@@ -48,3 +48,17 @@
 FOHEART C1标配的充电底座有以下功能：<br>
 1. 为动作捕捉节点充电。
 2. 更新动作捕捉节点的固件程序。
+
+## 1.4 Win10系统更新后驱动恢复
+Windows10大版本更新后，可能会将设备驱动隐藏，这里我们需要重新安装恢复驱动。<br>
+### 1.4.1 打开控制面板
+找到控制面板中的设备和打印机页面，找到Foheart Router in HS Mode设备，<br>
+![](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/deviceandprinter.png)<br>
+### 1.4.2 选择属性
+右键选择属性菜单，弹出窗口如下：<br>
+![](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/deviceandprinterprop.png)<br>
+### 1.4.3 选择驱动更新
+选择属性，打开**属性**窗口，在**驱动程序**Tab页中，选择**更新驱动程序**，<br>
+![](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/deviceandprinterdriver.png)<br>
+找到MotionVenus安装目录下的**FOHEART C1 Router Driver**文件夹，后续操作继续按照1.1.8节执行即可。<br>
+![](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/deviceandprinterdriverinstall.png)
