@@ -1,4 +1,11 @@
 ----------
+[MotionVenus 1.3.6]<br>
+1. 修正了bvh导出数据帧数不正确的问题。
+2. 内置Unroll与Gimble修复机制，直接导出正确的fbx，无需在MotionBuilder中进行修正。
+3. 增加了使用游戏引擎控制MotionVenus功能，详见应用手册AN3363([http://blog.foheart.com/?p=66](http://blog.foheart.com/?p=66))。
+4. bug及细节优化。
+
+--------------------
 [MotionVenus 1.3.4]<br>
 1. 增加节点受到严重磁干扰后的明显视觉提示。
 2. 增加录制文件夹的自动监控功能，文件增删后列表会自动更新。
