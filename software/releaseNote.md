@@ -4,9 +4,8 @@
 2. 增加了文件打包功能，便于将动捕文件快速复制到任意位置。
 3. 增加了原始数据导出功能，详见博客http://blog.foheart.com/。
 4. bug及细节优化。
-5. 本软件手册地址(Github)：https://github.com/FOHEART/MotionVenusHelp/tree/v1.3.8
-视频介绍地址：
-http://www.foheart.com/experience.html或http://i.youku.com/foheart
+5. 本软件手册地址(Github)：[https://github.com/FOHEART/MotionVenusHelp/tree/v1.3.8](https://github.com/FOHEART/MotionVenusHelp/tree/v1.3.8)<br>
+视频介绍地址：[http://www.foheart.com/experience.html](http://www.foheart.com/experience.html)<br>或<br>[http://i.youku.com/foheart](http://i.youku.com/foheart)
 ----------
 [MotionVenus 1.3.6]<br>
 1. 修正了bvh导出数据帧数不正确的问题。
