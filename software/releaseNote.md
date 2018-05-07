@@ -1,4 +1,13 @@
 ----------
+[MotionVenus 1.3.8]<br>
+1. 姿态解算能够自动处理大部分上下跳动、滑动等问题。
+2. 增加了文件打包功能，便于将动捕文件快速复制到任意位置。
+3. 增加了原始数据导出功能，详见博客http://blog.foheart.com/。
+4. bug及细节优化。
+5. 本软件手册地址(Github)：https://github.com/FOHEART/MotionVenusHelp/tree/v1.3.8
+视频介绍地址：
+http://www.foheart.com/experience.html或http://i.youku.com/foheart
+----------
 [MotionVenus 1.3.6]<br>
 1. 修正了bvh导出数据帧数不正确的问题。
 2. 内置Unroll与Gimble修复机制，直接导出正确的fbx，无需在MotionBuilder中进行修正。
