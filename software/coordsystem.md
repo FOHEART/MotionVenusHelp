@@ -3,10 +3,12 @@
 硬件指惯性动作捕捉节点（IMU Sensor），其坐标系定义如下：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/sensorcoord.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/sensorcoord.png"/>
 </div>
 
 导光柱指向y轴，右侧指向x轴，z轴指向Sensor正上方。
 
 符合该坐标系的输出值：
 加速度值、角速度值。
+### 6.1.2 四元数、欧拉角坐标系定义
+符合东北天坐标系定义。
