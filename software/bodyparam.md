@@ -6,7 +6,7 @@
 男性身高模板如下：
 <div align=center>
 <table>
-   <tr><th>部位</th><th>男195（cm）</th><th>男190（cm）</th><th>男185（cm）</th><th>男180（cm）</th><th>男175（cm）</th><th>男170（cm）</th><th>男165（cm）</th><th>男160（cm）</th></tr>
+   <tr><th>部位</th><th>男195cm</th><th>男190cm</th><th>男185cm</th><th>男180cm</th><th>男175cm</th><th>男170cm</th><th>男165cm</th><th>男160cm</th></tr>
    <tr><th>身高（含鞋）</th><th>195</th><th>190</th><th>185</th><th>180</th><th>175</th><th>170</th><th>165</th><th>160</th></tr>
 	<tr><th>胯高</th><th>102.04</th><th>99.43</th><th>96.81</th><th>94.19</th><th>91.58</th><th>88.96</th><th>86.34</th><th>83.73</th></tr>
 	<tr><th>身长</th><th>60.44</th><th>58.89</th><th>57.34</th><th>55.79</th><th>54.24</th><th>52.69</th><th>51.14</th><th>49.59</th></tr>
@@ -29,7 +29,7 @@
 女性身高模板如下：
 <div align=center>
 <table>
-   <tr><th>部位</th><th>女185（cm）</th><th>女180（cm）</th><th>女175（cm）</th><th>女170（cm）</th><th>女165（cm）</th><th>女160（cm）</th><th>女155（cm）</th><th>女150（cm）</th></tr>
+   <tr><th>部位</th><th>女185cm</th><th>女180cm</th><th>女175cm</th><th>女170cm</th><th>女165cm</th><th>女160cm</th><th>女155cm</th><th>女150cm</th></tr>
    <tr><th>身高（含鞋）</th><th>185</th><th>180</th><th>175</th><th>170</th><th>165</th><th>160</th><th>155</th><th>150</th></tr>
 	<tr><th>胯高</th><th>96.81</th><th>94.19</th><th>91.58</th><th>88.96</th><th>86.34</th><th>83.74</th><th>81.11</th><th>78.49</th></tr>
 	<tr><th>身长</th><th>57.34</th><th>55.79</th><th>54.24</th><th>52.69</th><th>51.14</th><th>49.5</th><th>48.04</th><th>46.49</th></tr>
