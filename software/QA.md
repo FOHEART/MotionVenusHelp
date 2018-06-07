@@ -25,9 +25,13 @@
    A：很大可能是由于HUB使用了质量低劣的USB线缆，请使用我们提供的原装USB线，或质量上等的Micro USB2.0线缆。另外可能是使用了USB集线器，并且由于USB集线器的供电不足造成的设备掉线，请确定您使用的USB集线器能够提供至少350mA供电电流，或者使用有独立电源供电的USB集线器。
 5. Q：系统更新后FOHEART C1 HUB或充电底座无法连接。<br>
    A：通常发生在WIN10系统以上，是驱动问题造成的本现象，请参考：[链接](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.0/driver/driverinstall.md)中的1.4节进行操作。
-6. Q：磁干扰会对动作捕捉造成如何影响？
+6. Q：磁干扰会对动作捕捉造成如何影响？<br>
    A：FOHEART动作捕捉系统节点内置磁干扰屏蔽算法，能够屏蔽突发的磁干扰，例如忽然握住手机；屏蔽过程最长持续30秒，若30秒内无法脱离磁干扰，会对最终的效果造成明显的较差影响。
-7. Q: 硬件Sensor上传数据的速率？
-   A: 24~96fps，默认96fps。
-8. Q：MotionVenus转发数据流到Unity3D或者Unreal Engine的数据速率？
+7. Q：硬件Sensor上传数据的速率？<br>
+   A：24~96fps，默认96fps。
+8. Q：MotionVenus转发数据流到Unity3D或者Unreal Engine的数据速率？<br>
    A：60fps。
+9. Q：MotionVenus转发数据流包含什么数据？<br>
+   A：23段骨骼的欧拉角；23段骨骼的四元数；23段骨骼的Local坐标；23段骨骼的Gobal坐标；17个Sensor的加速度计原始值；17个Sensor的陀螺仪原始值；17个Sensor的磁力计原始值；（原始值出厂设置不输出）
+10. Q：MotionVenus转发数据流可选的格式？<br>
+   A：二进制流（此种方式数据包最小）；可读字符串；Json格式；
