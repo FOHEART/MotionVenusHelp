@@ -1,12 +1,12 @@
-## 4.8 录制文件管理
+## 4.8 库
 
 ### 1、功能概述
-录制文件管理模块主要负责：
+库模块主要负责：
 1. 存储、管理、回放录制的动捕文件；
 2. 导出动作文件为BVH、FBX等通用格式；
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/filemgr.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/filemgr.png"/>
 </div>
 
 文件命名规则：录制日期+时间+角色名。<br>
@@ -15,7 +15,7 @@
 右键已打开的文件，在弹出菜单中选择“导出时间轴范围内数据”，导出数据为时间轴模块中间两个滑块确定的范围。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/fileexport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/fileexport.png"/>
 </div>
 
 1. 导出选项
@@ -53,51 +53,56 @@
 导出格式选择3Ds Max Biped BVH：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/bipedbvhexport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/bipedbvhexport.png"/>
 </div>
 
 在3Ds Max中可以直接支持导入该种文件格式，使用方法为：<br>
 首先在场景中拖拽创建出一个默认的Biped模型，
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/bipedbvhcreate.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/bipedbvhcreate.png"/>
 </div>
 
 然后选择Load Motion Capture File，
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/bipedbvhload.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/bipedbvhload.png"/>
 </div>
 
 选择刚才导出的ActorM_biped.bvh即可，最终显示如下：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/bipedbvhimport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/bipedbvhimport.png"/>
 </div>
 
 ### 4、FBX导出
-FBX导出后胳膊或者腿部会有万向锁的产生，会造成错误的瞬间翻转等问题，需要使用MotionBuilder 2014进行数据修复（Plot）。
-
-1. **输入帧数**，选择Plot All
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/fbxplot.png"/>
-</div>
-
-2. 配置参数，点击确定
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/fbxplotprop.png"/>
-</div>
-
-3. 保存文件退出
+FBX导出与BVH导出步骤完全相同，选择：<br>
+1. 起始帧、结束帧。
+2. 导出帧率。
+3. 点击导出。
 
 ### 5、文件信息
 1. 右键选择属性，查看录制文件的详细信息，包括使用的硬件套装、总帧数、骨骼长度等信息。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/filemgrprop.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/filemgrprop.png"/>
 </div>
 
 ### 6、播放列表
-1. 右键选择添加到播放队列，是指将当前文件添加到回放流中，所有在播放列表中的文件，均会在后台转发其数据到网络端口（例如发送到Unity3D、Unreal Engine 4等第三方软件中）。
+1. 右键选择添加到播放队列，是指将当前文件添加到回放流中，所有在播放列表中的文件，均会在后台转发其数据到网络端口（例如发送到Unity3D、Unreal Engine 4等第三方软件或引擎中）。
+
+### 7、文件打包
+当需要在不同存储位置移动动捕文件时，为了方便操作，可以使用MotionVenus内置的文件打包功能，快速压缩当前文件及其所有相关文件到指定存储位置。<br>
+在"库"停靠栏中，选择需要操作的文件，右键选择"打包文件"，弹出以下菜单：
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/filecompress.png"/>
+</div>
+
+RAW文件：动捕数据原始文件。<br>
+TRE文件：保存了接触点编辑的信息，如果编辑过接触点，建议勾选此项。<br>
+CSV文件：保存了Sensor的原始数据（四元数、欧拉角、加速度、角速度、磁力值）信息，如果在录制时在设置中打开了原始数据导出选项，则会产生此文件。<br>
+AVI文件：保存了同步视频录像，如果在动捕过程中使用了摄像头捕捉功能，则会产生同步录像文件。<br>
+
+压缩后生成以文件名命名的.zip文件。<br>
+如果需要使用打包后的动捕文件，需要将其解压到MotionVenus的库文件夹根目录中。
