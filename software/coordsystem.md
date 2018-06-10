@@ -25,3 +25,11 @@
 可以输出每段骨骼的本地（Local）旋转值或者全局（Global）旋转值。<br>
 符合该坐标系的输出值：<br>
 23段骨骼旋转角度、22个关节旋转角度。
+## 6.2 Unity3D坐标系
+摘录自[[链接]](https://blog.csdn.net/biezhihua/article/details/77489399)<br>
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.0/software/Cartesian_coordinate_system_handedness.svg"/>
+</div>
+
+
