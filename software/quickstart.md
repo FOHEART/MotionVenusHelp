@@ -5,10 +5,10 @@
 请详细阅读包装箱内使用手册，确定硬件齐全、开机正常。
 
 ## 0.2 客户端安装
-下载地址：
-[【发行版下载（官方地址）】](http://www.foheart.com/motionvenus/download.html)
-或
-[【发行版下载（github地址）】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.0/release)
+下载地址：<br>
+[【发行版下载（官方地址）】](http://www.foheart.com/motionvenus/download.html)<br>
+或<br>
+[【发行版下载（github地址）】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.0/release)<br>
 若安装地址选择在C盘，运行时需要以管理员模式运行。
 
 ## 0.3 驱动安装
