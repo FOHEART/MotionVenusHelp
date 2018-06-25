@@ -43,3 +43,4 @@
 [【Unity3D模型绑定教程】](https://github.com/FOHEART/MotionVenusSDK)中第四章<br>
 [【如何使用Unity3D反向控制MotionVenus？】](https://github.com/FOHEART/FOHEART_Unity3D_Plugin/blob/master/help/invCtl.md)<br>
 [【如何使用MotionVenus驱动Unity3D中多个模型运动】](https://github.com/FOHEART/FOHEART_Unity3D_Plugin/blob/master/help/multiActor.md)<br>
+[【绑定后的模型滑步/浮空或者脚部在地面下等问题如何解决？】](https://github.com/FOHEART/FOHEART_Unity3D_Plugin/blob/master/help/footslide.md)<br>
