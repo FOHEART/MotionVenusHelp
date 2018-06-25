@@ -41,3 +41,4 @@
 [【MotionVenus SDK使用教程】](https://github.com/FOHEART/MotionVenusSDK)<br>
 [【Unity3D模型建模建议】](https://github.com/FOHEART/MotionVenusSDK)中4.4.1节<br>
 [【Unity3D模型绑定教程】](https://github.com/FOHEART/MotionVenusSDK)中第四章<br>
+[【如何使用Unity3D反向控制MotionVenus？】](https://github.com/FOHEART/FOHEART_Unity3D_Plugin/blob/master/help/invCtl.md)<br>
