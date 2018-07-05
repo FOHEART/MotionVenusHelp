@@ -1,3 +1,36 @@
+### COPYRIGHT
+THE INFORMATION CONTAINED HERE IS PROPRIETARY TECHNICAL 
+INFORMATION OF FOHEART CO., LTD. TRANSMITTING, REPRODUCTION, 
+DISSEMINATION AND EDITING OF THIS DOCUMENT AS WELL AS 
+UTILIZATION OF THE CONTENT ARE FORBIDDEN WITHOUT PERMISSION. 
+OFFENDERS WILL BE HELD LIABLE FOR PAYMENT OF DAMAGES. ALL 
+RIGHTS ARE RESERVED IN THE EVENT OF A PATENT GRANT OR 
+REGISTRATION OF A UTILITY MODEL OR DESIGN.
+### GENERAL NOTES
+FOHEART OFFERS THE INFORMATION AS A SERVICE TO ITS CUSTOMERS. 
+THE INFORMATION PROVIDED IS BASED UPON CUSTOMERS’ 
+REQUIREMENTS. FOHEART MAKES EVERY EFFORT TO ENSURE THE 
+QUALITY OF THE INFORMATION IT MAKES AVAILABLE. FOHEART DOES 
+NOT MAKE ANY WARRANTY AS TO THE INFORMATION CONTAINED 
+HEREIN, AND DOES NOT ACCEPT ANY LIABILITY FOR ANY INJURY, LOSS 
+OR DAMAGE OF ANY KIND INCURRED BY USE OF OR RELIANCE UPON 
+THE INFORMATION. ALL INFORMATION SUPPLIED HEREIN IS SUBJECT TO 
+CHANGE WITHOUT PRIOR NOTICE.<br>
+**For technical support, please visit:**<br>
+[http://www.foheart.com/support.html](http://www.foheart.com/support.html) or<br>
+[http://www.foheart.com/question.html](http://www.foheart.com/question.html)<br>
+**北京总部**<br>
+Tel：(+86)010-56106165<br>
+Email：contact@foheart.com<br>
+地址：北京市海淀区黑山扈路红山口8号D2-南-3号<br>
+邮编：100091<br>
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/address1.png"/>
+</div>
+
+**Copyright(C) FOHEART Co., Ltd. 2015-2018. All rights reserved.**<br>
+
 # 第一部分：设备驱动安装
 正常使用设备只需要安装路由器驱动连接电脑端即可，不需要连接充电板到电脑。<br>
 注意：MotionVenus的**安装路径不可包含中文**，否则会造成驱动无法识别等错误。
@@ -5,6 +38,7 @@
 ## 1.1 Win8/Win10系统驱动安装
 ### 1.1.1 打开所有设置
 选择更新和安全。<br>
+
 ![更新和安全](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/updateNsecure.png)
 ### 1.1.2 选择高级启动
 ![高级启动](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/img/mordenstartup.png)
@@ -62,3 +96,7 @@ Windows10大版本更新后，可能会将设备驱动隐藏，这里我们需�
 ![](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/deviceandprinterdriver.png)<br>
 找到MotionVenus安装目录下的**FOHEART C1 Router Driver**文件夹，后续操作继续按照1.1.8节执行即可。<br>
 ![](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.2/img/deviceandprinterdriverinstall.png)
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/tail.png" width="100%"/>
+</div>
