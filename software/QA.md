@@ -1,3 +1,36 @@
+### COPYRIGHT
+THE INFORMATION CONTAINED HERE IS PROPRIETARY TECHNICAL 
+INFORMATION OF FOHEART CO., LTD. TRANSMITTING, REPRODUCTION, 
+DISSEMINATION AND EDITING OF THIS DOCUMENT AS WELL AS 
+UTILIZATION OF THE CONTENT ARE FORBIDDEN WITHOUT PERMISSION. 
+OFFENDERS WILL BE HELD LIABLE FOR PAYMENT OF DAMAGES. ALL 
+RIGHTS ARE RESERVED IN THE EVENT OF A PATENT GRANT OR 
+REGISTRATION OF A UTILITY MODEL OR DESIGN.
+### GENERAL NOTES
+FOHEART OFFERS THE INFORMATION AS A SERVICE TO ITS CUSTOMERS. 
+THE INFORMATION PROVIDED IS BASED UPON CUSTOMERS’ 
+REQUIREMENTS. FOHEART MAKES EVERY EFFORT TO ENSURE THE 
+QUALITY OF THE INFORMATION IT MAKES AVAILABLE. FOHEART DOES 
+NOT MAKE ANY WARRANTY AS TO THE INFORMATION CONTAINED 
+HEREIN, AND DOES NOT ACCEPT ANY LIABILITY FOR ANY INJURY, LOSS 
+OR DAMAGE OF ANY KIND INCURRED BY USE OF OR RELIANCE UPON 
+THE INFORMATION. ALL INFORMATION SUPPLIED HEREIN IS SUBJECT TO 
+CHANGE WITHOUT PRIOR NOTICE.<br>
+**For technical support, please visit:**<br>
+[http://www.foheart.com/support.html](http://www.foheart.com/support.html) or<br>
+[http://www.foheart.com/question.html](http://www.foheart.com/question.html)<br>
+**北京总部**<br>
+Tel：(+86)010-56106165<br>
+Email：contact@foheart.com<br>
+地址：北京市海淀区黑山扈路红山口8号D2-南-3号<br>
+邮编：100091<br>
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/address1.png"/>
+</div>
+
+**Copyright(C) FOHEART Co., Ltd. 2015-2018. All rights reserved.**<br>
+
 # 第五部分：常见问题
 ## 5.1 软件使用问题
 1. Q：为什么动画录制功能无法使用？<br>
@@ -24,7 +57,7 @@
 4. Q：软件使用过程中节点突然全部掉线。<br>
    A：很大可能是由于HUB使用了质量低劣的USB线缆，请使用我们提供的原装USB线，或质量上等的Micro USB2.0线缆。另外可能是使用了USB集线器，并且由于USB集线器的供电不足造成的设备掉线，请确定您使用的USB集线器能够提供至少350mA供电电流，或者使用有独立电源供电的USB集线器。
 5. Q：系统更新后FOHEART C1 HUB或充电底座无法连接。<br>
-   A：通常发生在WIN10系统以上，是驱动问题造成的本现象，请参考：[链接](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.0/driver/driverinstall.md)中的1.4节进行操作。
+   A：通常发生在WIN10系统以上，是驱动问题造成的本现象，请参考：[链接](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/driver/driverinstall.md)中的1.4节进行操作。
 6. Q：磁干扰会对动作捕捉造成如何影响？<br>
    A：FOHEART动作捕捉系统节点内置磁干扰屏蔽算法，能够屏蔽突发的磁干扰，例如忽然握住手机；屏蔽过程最长持续30秒，若30秒内无法脱离磁干扰，会对最终的效果造成明显的较差影响。
 7. Q：硬件Sensor上传数据的速率？<br>
@@ -35,3 +68,7 @@
    A：23段骨骼的欧拉角；23段骨骼的四元数；23段骨骼的Local坐标；23段骨骼的Gobal坐标；17个Sensor的加速度计原始值；17个Sensor的陀螺仪原始值；17个Sensor的磁力计原始值；（原始值出厂设置不输出）
 10. Q：MotionVenus转发数据流可选的格式？<br>
    A：二进制流（此种方式数据包最小）；可读字符串；Json格式；
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/tail.png" width="100%"/>
+</div>
