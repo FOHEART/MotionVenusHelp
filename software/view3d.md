@@ -33,16 +33,16 @@ Email：contact@foheart.com<br>
 
 ## 4.2 3D人物显示窗口
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/main3d.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/main3d.png" width="100%"/>
 </div>
 
 1. 点击图中的“视图”按钮，依次显示“主视图”、“四窗口”、“全屏幕”、“地平线”，默认情况下显示的状态为“主视图”和“地平面”。<br>
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/viewsetting.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/viewsetting.png" />
 </div>
 当选择四视图时，显示的为虚拟人物的前视、顶视和侧视图。<br>
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/fourview.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/fourview.png" width="100%"/>
 </div>
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/view3dfourview.GIF"/>
@@ -55,15 +55,15 @@ Email：contact@foheart.com<br>
 </div>
 3. 按住此图标拖动，则可以360度旋转场景，从多个角度观看3D人物模型。<br>
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/view3drotate.GIF"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/view3drotate.GIF" width="100%"/>
 </div>
 4. 按住此图标拖动，则可以前后左右四个方向，平移拖动场景。<br>
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/view3dtranslate.GIF"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/view3dtranslate.GIF" width="100%"/>
 </div>
 5. 按住此图标拖动，则可以缩小或放大场景。<br>
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/view3dzoom.GIF"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/view3dzoom.GIF" width="100%"/>
 </div>
 6. 此图标为“人物跟随”功能，打开此项功能，使相机跟随3D人物移动。
 

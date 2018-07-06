@@ -86,26 +86,26 @@ Email：contact@foheart.com<br>
 导出格式选择3Ds Max Biped BVH：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhexport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhexport.png"  width="100%"/>
 </div>
 
 在3Ds Max中可以直接支持导入该种文件格式，使用方法为：<br>
 首先在场景中拖拽创建出一个默认的Biped模型，
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhcreate.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhcreate.png"  width="100%"/>
 </div>
 
 然后选择Load Motion Capture File，
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhload.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhload.png"  width="100%"/>
 </div>
 
 选择刚才导出的ActorM_biped.bvh即可，最终显示如下：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhimport.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/bipedbvhimport.png"  width="100%"/>
 </div>
 
 ### 4、FBX导出

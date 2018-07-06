@@ -26,7 +26,7 @@ Email：contact@foheart.com<br>
 邮编：100091<br>
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/address1.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/address1.png"  width="100%"/>
 </div>
 
 **Copyright(C) FOHEART Co., Ltd. 2015-2018. All rights reserved.**<br>
@@ -35,7 +35,7 @@ Email：contact@foheart.com<br>
 时间轴栏主要用来管理实时数据的录制、回放、快速慢速播放、配合帧数据修改模块修改数据等功能。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/timeline.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/timeline.png" width="100%"/>
 </div>
 
 1. 点击**录制按钮**录制实时数据流，录制完成的数据流会显示在录制文件管理模块中。
@@ -43,7 +43,7 @@ Email：contact@foheart.com<br>
 录制时主窗体会用红色边框标红：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/recordredhint.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/recordredhint.png" width="100%"/>
 </div>
 
 注意在录制时，**无法回放同时回放文件**，如果切换到回放模式，会造成录制内容为**空白**。
@@ -73,13 +73,13 @@ Email：contact@foheart.com<br>
 3. 中间左右两个滑块用来控制时间轴**显示的区域**。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/timelinemedium.GIF"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/timelinemedium.GIF" width="100%"/>
 </div>
 
 可以直接双击滑块输入帧号实现快速跳转。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/timelinedinputmedium.GIF"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/timelinedinputmedium.GIF" width="100%"/>
 </div>
 
 4. 播放模式有四种：

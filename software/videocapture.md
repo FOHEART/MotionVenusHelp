@@ -45,7 +45,7 @@ MotionVenus可以使用USB摄像头同步录制视频流，视频流与动捕数
 视频回放时，如果存在同名的视频文件，则自动在视频窗口同步回放视频文件。<br>
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/cameracapture.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/cameracapture.png" width="100%"/>
 </div>
 
 视频录制参数：

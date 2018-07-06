@@ -33,9 +33,15 @@ Email：contact@foheart.com<br>
 
 # 第三部分：传感器节点校准
 第一次打开软件，会显示以下界面：<br>
-![welcome](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/welcom1_2_8.png)<br>
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/welcom1_2_8.png" width="100%"/>
+</div>
+
 您可以点击“下一页”观看校准前的说明。<br>
-![calipage](https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/sensorcali.png)<br>
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.3.4/software/sensorcali.png" width="100%"/>
+</div>
+
 下面的校准动作**任选其一**：<br>
 校准动作1：<br>
 <div align=center>

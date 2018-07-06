@@ -36,7 +36,7 @@ Email：contact@foheart.com<br>
 硬件指惯性动作捕捉节点（IMU Sensor），其坐标系定义如下：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/sensorcoord.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/sensorcoord.png" />
 </div>
 
 导光柱指向y轴，右侧指向x轴，z轴指向Sensor正上方。<br>
@@ -50,7 +50,7 @@ Email：contact@foheart.com<br>
 ### 6.1.3 MotionVenus骨骼坐标系定义
 符合右手坐标系定义。<br>
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/skeletoncoord.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/software/skeletoncoord.png"  width="100%"/>
 </div>
 
 如上图所示，世界坐标系为右手坐标系，T-Pose时每段骨骼的local及global坐标系也均为右手坐标系。<br>
