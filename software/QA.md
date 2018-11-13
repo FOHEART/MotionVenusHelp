@@ -79,6 +79,8 @@ Email：contact@foheart.com<br>
 — 禁止锤击或脚踏动作捕捉传感器；<br>
 — 禁止以任何方式拆解动作捕捉传感器；<br>
 — 禁止在火源或极热条件下给动作捕捉传感器充电；<br>
+<br>
+- 请使用原装适配器给充电底座供电，劣质适配器可能会导致动作捕捉传感器电池损坏。<br>
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/tail.png" width="100%"/>
