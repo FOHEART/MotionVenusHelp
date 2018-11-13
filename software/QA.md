@@ -69,6 +69,17 @@ Email：contact@foheart.com<br>
 10. Q：MotionVenus转发数据流可选的格式？<br>
    A：二进制流（此种方式数据包最小）；可读字符串；Json格式；
 
+## 5.3 注意事项
+
+— 勿在热源（如火或加热器）附近使用或贮存动作捕捉传感器；<br>
+— 请使用原厂充电底座充电；<br>
+— 勿将动作捕捉传感器投入水中或将其弄湿；<br>
+— 勿给动作捕捉传感器加热；<br>
+— 禁止撞击、投掷或者使动作捕捉传感器受到机械震动；<br>
+— 禁止锤击或脚踏动作捕捉传感器；<br>
+— 禁止以任何方式拆解动作捕捉传感器；<br>
+— 禁止在火源或极热条件下给动作捕捉传感器充电；<br>
+
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/tail.png" width="100%"/>
 </div>
