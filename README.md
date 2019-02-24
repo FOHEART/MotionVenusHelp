@@ -49,7 +49,7 @@ Email：contact@foheart.com<br>
 </div>
 
 [【视频教程】](http://i.youku.com/foheart)<br>
-[【PDF格式教程手册（包括所有本页教程内容）】]()<br>
+[【PDF格式教程手册（包括所有本页教程内容）】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/pdf/FOHEART%20MotionVenus%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)<br>
 [【更新日志】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/software/releaseNote.md)<br>
 [【发行版下载（官方地址）】](http://www.foheart.com/motionvenus/download.html)<br>
 [【发行版下载（github地址）】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/release)<br>
