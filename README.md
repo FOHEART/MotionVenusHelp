@@ -30,7 +30,7 @@ Email：contact@foheart.com<br>
 <img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/address1.png"/>
 </div>
 
-**Copyright(C) FOHEART Co., Ltd. 2015-2018. All rights reserved.**<br>
+**Copyright(C) FOHEART Co., Ltd. 2015-2019. All rights reserved.**<br>
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/img/softwareName.png"/>
@@ -48,8 +48,7 @@ Email：contact@foheart.com<br>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionVenusHelp/v1.4.2/img/foheartc1_2.png" width="100%"/>
 </div>
 
-[【视频教程】](http://i.youku.com/foheart)<br>
-[【PDF格式教程手册（包括软硬件使用）】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/pdf/FOHEART%20MotionVenus%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)<br>
-[【更新日志】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/software/releaseNote.md)<br>
+[【视频教程（优酷网）】](http://i.youku.com/foheart)<br>
+[【PDF格式教程手册（包括软硬件使用教程）】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/pdf/FOHEART%20MotionVenus%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)<br>
 [【发行版下载（官方地址）】](http://www.foheart.com/motionvenus/download.html)<br>
 [【发行版下载（github地址）】](https://github.com/FOHEART/MotionVenusHelp/blob/v1.4.2/release)<br>
